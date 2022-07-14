@@ -491,7 +491,8 @@ pre {
   display: flex;
   flex-wrap: wrap;
   margin-right: -1.5rem;
-  margin-left: -1.5rem; }
+  margin-left: -1.5rem;
+  justify-content: center;}
 
 .no-gutters {
   margin-right: 0;
